@@ -6,5 +6,6 @@
 >[!IMPORTANT]
 >In this project the team use the dataset [View Dataset](datosari.csv)
 
+>[!TIP]
 > Running this pujyter notebook with at east one GP4 T4 (vIEW THE NOTEBOOK)(Copy_of_Galapagos_clustering_Forecasting.ipynb)
 
